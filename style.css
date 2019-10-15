@@ -41,6 +41,7 @@ main{
 	width: 500px;
 	background-color: #D3D3D3;
 	vertical-align: top;
+  color: grey;
 }
 #home-c2{
 	display: inline-block;
@@ -81,4 +82,32 @@ footer {
 .imageB {
   border-radius: 50%;
   width: 200px;
+}
+.info {
+  width: 500px;
+  color: grey;
+}
+.about-c1 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
+.about-c2 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
+.about-c3 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
+#title1 {
+  color: grey;
+}
+#title2 {
+  color: grey;
 }
