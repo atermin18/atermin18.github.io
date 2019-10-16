@@ -1,0 +1,143 @@
+.image1 {
+width: 588px
+}
+body{
+  background-color: #A9A9A9;
+}
+#container{
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #D3D3D3;
+}
+header {
+	background-color: blue;
+}
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #F8F8FF;
+}
+header li {
+  float: left;
+}
+header li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 15px 40px;
+  text-decoration: none;
+}
+header li a:hover {
+  background-color: #C0C0C0;
+  color: grey;
+}
+main{
+	padding: 0 10px;
+}
+#home-c1{
+	display: inline-block;
+	width: 500px;
+	background-color: #D3D3D3;
+	vertical-align: top;
+  color: grey;
+}
+#home-c2{
+	display: inline-block;
+	width: 600px;
+	background-color: #D3D3D3;
+	vertical-align: top;
+}
+.home-r{
+	display: inline-block;
+	width: 293px;
+	background-color: #F8F8FF;
+	border: transparent;
+	margin-top: 20px;
+}
+#home-r-c2{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.home-r p {
+  float: left;
+  margin: 0;
+}
+.home-r p a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 15px 40px;
+  text-decoration: none;
+}
+.home-r p a:hover {
+  background-color: #C0C0C0;
+  color: grey;
+}
+footer {
+  background-color: #F8F8FF;
+  text-color: grey;
+}
+.imageB {
+  border-radius: 50%;
+  width: 200px;
+}
+.info {
+  width: 500px;
+  color: grey;
+}
+.about-c1 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
+.about-c2 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
+.about-c3 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
+#title1 {
+  color: grey;
+}
+#title2 {
+  color: grey;
+}
+.background {
+  width:auto;
+  height: 400px;
+  padding: 20px;
+
+
+  background-image: url(A6.jpg);
+  background-size: cover;
+}
+.background1 {
+  width:auto;
+  height: 400px;
+  padding: 20px;
+
+
+  background-image: url(KLP.jpg);
+  background-size: cover;
+}
+.prof-1 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
+.prof-2 {
+  display: inline-block;
+	width: 275px;
+	vertical-align: top;
+  color: grey;
+}
