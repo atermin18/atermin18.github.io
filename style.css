@@ -120,6 +120,15 @@ footer {
   background-image: url(A6.jpg);
   background-size: cover;
 }
+.background1 {
+  width:auto;
+  height: 400px;
+  padding: 20px;
+
+
+  background-image: url(KLP.jpg);
+  background-size: cover;
+}
 .prof-1 {
   display: inline-block;
 	width: 275px;
